@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 So I am just getting started with learning **software engineering**
+🌱 while creating a good profile
+🤔 I will modify this as time goes by
+
+
+- ⚡ This is a start after all. See you soon.
 <!--
 **Yayeks/Yayeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
